@@ -1,0 +1,14 @@
+{
+  "name": "fwa-svelte-service",
+  "version": "0.1.0",
+  "description": "A service to manage Functional Web Apps on AWS",
+  "scripts": {
+    "start": "npx sandbox"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "devDependencies": {
+    "@architect/architect": "^10.8.4"
+  }
+}

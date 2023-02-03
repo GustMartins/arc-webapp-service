@@ -1,0 +1,9 @@
+node_modules
+
+# Ignore build files
+/build/*
+!build/.gitkeep
+
+# Ignore files for Arc deploy
+sam.json
+sam.yaml
